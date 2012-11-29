@@ -623,6 +623,9 @@
     <string name="dtmf_tone_enable_title" msgid="827601042915852989">"拨号键盘触摸音效"</string>
     <string name="preference_category_ringtone" msgid="9007490591910078324">"铃声"</string>
 
+    <string name="perm_change_mobile_network">更改网络（2G/3G）</string>
+    <string name="perm_change_mobile_network_desc">可以在任何时候切换2G或3G数据，3G速度更快但消耗更多电量，费用也更高。</string>
+
     <!-- Advanced Settings -->
     <string name="advanced_setting">高级设置</string>
     <string name="vibrate_outgoing">接听震动</string>
